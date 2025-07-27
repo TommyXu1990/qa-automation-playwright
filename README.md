@@ -18,4 +18,4 @@ This repository contains test cases and automated tests written using [Microsoft
 
 ## 📌 About Me
 
-I'm an aspiring QA Automation Engineer transitioning from a background in finance and business. This portfolio highlights my hands-on learning and real-world project practice.
+I'm a QA Automation Engineer transitioning from a background in finance and business. This portfolio highlights my hands-on learning and real-world project practice.
